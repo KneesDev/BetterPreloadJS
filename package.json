@@ -1,0 +1,19 @@
+{
+  "name": "betterpreload",
+  "version": "1.0.0",
+  "description": "Add a loading screen to your website within seconds.",
+  "main": "betterpreload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KneesDev/BetterPreloadJS.git"
+  },
+  "author": "KneesDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KneesDev/BetterPreloadJS/issues"
+  },
+  "homepage": "https://github.com/KneesDev/BetterPreloadJS#readme"
+}
